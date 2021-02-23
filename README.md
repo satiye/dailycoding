@@ -5,9 +5,8 @@ My solutions to the top coding problems
 | |Problem|My Solutions |
 |---|---|---|
 |1|First Missing Positive Integer.|[Solution](https://github.com/satiye/dailycoding/blob/master/src/arrays/FirstMissingPositiveInteger.java)|
-|2|Given K sorted arrays, write an algorithm that merges these arrays and returns a single sorted array.|[Solution](https://github.com/satiye/dailycoding/blob/master/src/arrays/MergeKSortedArrays.java)|
-|3|Determine if a 9 x 9 Sudoku board is valid.|[Solution](https://github.com/satiye/dailycoding/blob/master/src/arrays/ValidSudoku.java)|
-|4|Contiguous sub-array within array which has the largest sum.|[Solution](https://github.com/satiye/dailycoding/blob/master/src/arrays/kadanesalgorithm/MaxContiguousSubarraySum.java)|
+|2|Determine if a 9 x 9 Sudoku board is valid.|[Solution](https://github.com/satiye/dailycoding/blob/master/src/arrays/ValidSudoku.java)|
+|3|Contiguous sub-array within array which has the largest sum.|[Solution](https://github.com/satiye/dailycoding/blob/master/src/arrays/kadanesalgorithm/MaxContiguousSubarraySum.java)|
 
 
 ## Strings
@@ -27,6 +26,11 @@ My solutions to the top coding problems
 |---|---|---|
 |1|Find the maximum number of unique integers among all possible contiguous subarrays of size M |[Solution](https://github.com/satiye/dailycoding/blob/master/src/stacksandqueues/MaxUniqueIntegersInContiguousSubarray.java)|
 
+## Heaps
+| |Problem|My Solutions |
+|---|---|---|
+|1|Given K sorted arrays, write an algorithm that merges these arrays and returns a single sorted array.|[Solution](https://github.com/satiye/dailycoding/blob/master/src/heaps/MergeKSortedArrays.java)|
+|2|Find median of elements read so for in efficient way. |[Solution](https://github.com/satiye/dailycoding/blob/master/src/heaps/FindRunningMedian.java)|
 
 ## Trees
 | |Problem|My Solutions |
