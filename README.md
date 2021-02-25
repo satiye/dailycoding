@@ -26,6 +26,11 @@ My solutions to the top coding problems
 |---|---|---|
 |1|Find the maximum number of unique integers among all possible contiguous subarrays of size M |[Solution](https://github.com/satiye/dailycoding/blob/master/src/stacksandqueues/MaxUniqueIntegersInContiguousSubarray.java)|
 
+## Recursion
+| |Problem|My Solutions |
+|---|---|---|
+|1|Given an encoded message as a string, return the number of ways to decode. |[Solution](https://github.com/satiye/dailycoding/blob/master/src/recursion/DecodeWays.java)|
+
 ## Heaps
 | |Problem|My Solutions |
 |---|---|---|
@@ -50,3 +55,5 @@ My solutions to the top coding problems
 |1|The fewest number of coins that you need to make up that amount |[Solution](https://github.com/satiye/dailycoding/blob/master/src/dynamicprogramming/FewestCoinsToMakeChange.java)|
 |2|Which packages the thief will take away to get the highest value?|[Solution](https://github.com/satiye/dailycoding/blob/master/src/dynamicprogramming/ZeroOneKnapsack.java)|
 |3|Total unique ways that make up that amount|[Solution](https://github.com/satiye/dailycoding/blob/master/src/dynamicprogramming/TotalUniqueWaysToMakeChange.java)|
+|4|Given an encoded message as a string, return the number of ways to decode. |[Solution](https://github.com/satiye/dailycoding/blob/master/src/dynamicprogramming/DecodeWays.java)|
+
