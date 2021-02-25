@@ -1,5 +1,8 @@
 package dynamicprogramming;
-
+/*
+ * Given an encoded message as a string, return the number of ways to decode.
+Given encoded message "12", it could be decoded as "AB" (1 2) or "L" (12).
+ */
 public class DecodeWays {
 	  public int solution(String s) {
 	        int[] dp = new int[s.length()+1]; 
