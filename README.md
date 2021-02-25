@@ -15,6 +15,7 @@ My solutions to the top coding problems
 |1|Get search results from the save contacts for the number you entered.|[Solution](https://github.com/satiye/dailycoding/blob/master/src/strings/SortedContactSearch.java)|
 |2|Reformat the phone number|[Solution](https://github.com/satiye/dailycoding/blob/master/src/strings/ReformatPhoneNumber.java)|
 |3|Maximum number of weeks that John can spend in Hawaii|[Solution](https://github.com/satiye/dailycoding/blob/master/src/strings/CountHolidayWeeks.java)|
+|4|Make our own Contacts application!|[Solution](https://github.com/satiye/dailycoding/blob/master/src/strings/Contacts.java)|
 
 ## Linked Lists
 | |Problem|My Solutions |
@@ -43,6 +44,11 @@ My solutions to the top coding problems
 |1|Serialize and deserialize the binary tree into a string |[Solution](https://github.com/satiye/dailycoding/blob/master/src/trees/SerializeDeserializeBinaryTree.java)|
 |2|Given the root of a binary tree, determine if it is a valid binary search tree |[Solution](https://github.com/satiye/dailycoding/blob/master/src/trees/CheckBST.java)|
 |3|Convert sorted array to a height-balanced binary search tree. |[Solution](https://github.com/satiye/dailycoding/blob/master/src/trees/ConvertSortedArrayToBST.java)|
+
+## Tries
+| |Problem|My Solutions |
+|---|---|---|
+|1|Make our own Contacts application!|[Solution](https://github.com/satiye/dailycoding/blob/master/src/trie/Contacts.java)|
 
 ## Graphs
 | |Problem|My Solutions |
