@@ -54,6 +54,8 @@ My solutions to the top coding problems
 | |Problem|My Solutions |
 |---|---|---|
 |1|Check graph contains a path from vertex 1 to vertex N going through all of the vertices, one by one, in increasing order of their number |[Solution](https://github.com/satiye/dailycoding/blob/master/src/graphs/CheckOrderedPathExistence.java)|
+|2|Course Scheduling |[Solution](https://github.com/satiye/dailycoding/blob/master/src/graphs/topologicalsort/CourseSchedule.java)|
+|3|Task Scheduling |[Solution](https://github.com/satiye/dailycoding/blob/master/src/graphs/topologicalsort/TaskScheduler.java)|
 
 ## Dynamic Programming
 | |Problem|My Solutions |
